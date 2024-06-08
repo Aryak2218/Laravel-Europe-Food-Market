@@ -4,6 +4,9 @@
     <button type="button" class="btn btn-tambah">
         <a href="/category/tambah">Input Data</a>
     </button>
+    <button type="button" class="btn btn-cetak">
+        <a href="/category/cetak"> export Data</a>
+    </button>
     <table class="table-data">
         <thead>
             <tr>
